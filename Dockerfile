@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/autoscaler-b41733a3e5694e8fc64777bdfd8e791a@sha256:10b49d7436765e104f4813915ac3a39f062b9ef2acc3b454bb42b573e90efb37
